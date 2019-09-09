@@ -1,0 +1,10 @@
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_1_08.31.19\01.First_Step\bin\Debug\netcoreapp2.2\01.First_Step.deps.json
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_1_08.31.19\01.First_Step\bin\Debug\netcoreapp2.2\01.First_Step.runtimeconfig.json
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_1_08.31.19\01.First_Step\bin\Debug\netcoreapp2.2\01.First_Step.runtimeconfig.dev.json
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_1_08.31.19\01.First_Step\bin\Debug\netcoreapp2.2\01.First_Step.dll
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_1_08.31.19\01.First_Step\bin\Debug\netcoreapp2.2\01.First_Step.pdb
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_1_08.31.19\01.First_Step\obj\Debug\netcoreapp2.2\01.First_Step.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_1_08.31.19\01.First_Step\obj\Debug\netcoreapp2.2\01.First_Step.AssemblyInfoInputs.cache
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_1_08.31.19\01.First_Step\obj\Debug\netcoreapp2.2\01.First_Step.AssemblyInfo.cs
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_1_08.31.19\01.First_Step\obj\Debug\netcoreapp2.2\01.First_Step.dll
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_1_08.31.19\01.First_Step\obj\Debug\netcoreapp2.2\01.First_Step.pdb

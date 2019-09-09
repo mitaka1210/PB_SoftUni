@@ -1,0 +1,11 @@
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_2_07.09.19\02. Inches to Centimeters\bin\Debug\netcoreapp2.2\02. Inches to Centimeters.deps.json
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_2_07.09.19\02. Inches to Centimeters\bin\Debug\netcoreapp2.2\02. Inches to Centimeters.runtimeconfig.json
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_2_07.09.19\02. Inches to Centimeters\bin\Debug\netcoreapp2.2\02. Inches to Centimeters.runtimeconfig.dev.json
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_2_07.09.19\02. Inches to Centimeters\bin\Debug\netcoreapp2.2\02. Inches to Centimeters.dll
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_2_07.09.19\02. Inches to Centimeters\bin\Debug\netcoreapp2.2\02. Inches to Centimeters.pdb
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_2_07.09.19\02. Inches to Centimeters\obj\Debug\netcoreapp2.2\02. Inches to Centimeters.csprojAssemblyReference.cache
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_2_07.09.19\02. Inches to Centimeters\obj\Debug\netcoreapp2.2\02. Inches to Centimeters.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_2_07.09.19\02. Inches to Centimeters\obj\Debug\netcoreapp2.2\02. Inches to Centimeters.AssemblyInfoInputs.cache
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_2_07.09.19\02. Inches to Centimeters\obj\Debug\netcoreapp2.2\02. Inches to Centimeters.AssemblyInfo.cs
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_2_07.09.19\02. Inches to Centimeters\obj\Debug\netcoreapp2.2\02. Inches to Centimeters.dll
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_2_07.09.19\02. Inches to Centimeters\obj\Debug\netcoreapp2.2\02. Inches to Centimeters.pdb

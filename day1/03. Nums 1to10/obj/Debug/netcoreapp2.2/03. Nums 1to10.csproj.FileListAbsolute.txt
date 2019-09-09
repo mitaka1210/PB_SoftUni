@@ -1,0 +1,11 @@
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_1_08.31.19\03. Nums 1to10\bin\Debug\netcoreapp2.2\03. Nums 1to10.deps.json
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_1_08.31.19\03. Nums 1to10\bin\Debug\netcoreapp2.2\03. Nums 1to10.runtimeconfig.json
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_1_08.31.19\03. Nums 1to10\bin\Debug\netcoreapp2.2\03. Nums 1to10.runtimeconfig.dev.json
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_1_08.31.19\03. Nums 1to10\bin\Debug\netcoreapp2.2\03. Nums 1to10.dll
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_1_08.31.19\03. Nums 1to10\bin\Debug\netcoreapp2.2\03. Nums 1to10.pdb
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_1_08.31.19\03. Nums 1to10\obj\Debug\netcoreapp2.2\03. Nums 1to10.csprojAssemblyReference.cache
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_1_08.31.19\03. Nums 1to10\obj\Debug\netcoreapp2.2\03. Nums 1to10.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_1_08.31.19\03. Nums 1to10\obj\Debug\netcoreapp2.2\03. Nums 1to10.AssemblyInfoInputs.cache
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_1_08.31.19\03. Nums 1to10\obj\Debug\netcoreapp2.2\03. Nums 1to10.AssemblyInfo.cs
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_1_08.31.19\03. Nums 1to10\obj\Debug\netcoreapp2.2\03. Nums 1to10.dll
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_1_08.31.19\03. Nums 1to10\obj\Debug\netcoreapp2.2\03. Nums 1to10.pdb

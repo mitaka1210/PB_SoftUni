@@ -1,0 +1,11 @@
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_2_07.09.19\08. Yard Greening\bin\Debug\netcoreapp2.2\08. Yard Greening.deps.json
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_2_07.09.19\08. Yard Greening\bin\Debug\netcoreapp2.2\08. Yard Greening.runtimeconfig.json
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_2_07.09.19\08. Yard Greening\bin\Debug\netcoreapp2.2\08. Yard Greening.runtimeconfig.dev.json
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_2_07.09.19\08. Yard Greening\bin\Debug\netcoreapp2.2\08. Yard Greening.dll
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_2_07.09.19\08. Yard Greening\bin\Debug\netcoreapp2.2\08. Yard Greening.pdb
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_2_07.09.19\08. Yard Greening\obj\Debug\netcoreapp2.2\08. Yard Greening.csprojAssemblyReference.cache
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_2_07.09.19\08. Yard Greening\obj\Debug\netcoreapp2.2\08. Yard Greening.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_2_07.09.19\08. Yard Greening\obj\Debug\netcoreapp2.2\08. Yard Greening.AssemblyInfoInputs.cache
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_2_07.09.19\08. Yard Greening\obj\Debug\netcoreapp2.2\08. Yard Greening.AssemblyInfo.cs
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_2_07.09.19\08. Yard Greening\obj\Debug\netcoreapp2.2\08. Yard Greening.dll
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_2_07.09.19\08. Yard Greening\obj\Debug\netcoreapp2.2\08. Yard Greening.pdb

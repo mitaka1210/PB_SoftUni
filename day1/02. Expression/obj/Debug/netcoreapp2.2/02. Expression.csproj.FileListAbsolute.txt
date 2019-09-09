@@ -1,0 +1,11 @@
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_1_08.31.19\02. Expression\bin\Debug\netcoreapp2.2\02. Expression.deps.json
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_1_08.31.19\02. Expression\bin\Debug\netcoreapp2.2\02. Expression.runtimeconfig.json
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_1_08.31.19\02. Expression\bin\Debug\netcoreapp2.2\02. Expression.runtimeconfig.dev.json
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_1_08.31.19\02. Expression\bin\Debug\netcoreapp2.2\02. Expression.dll
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_1_08.31.19\02. Expression\bin\Debug\netcoreapp2.2\02. Expression.pdb
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_1_08.31.19\02. Expression\obj\Debug\netcoreapp2.2\02. Expression.csprojAssemblyReference.cache
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_1_08.31.19\02. Expression\obj\Debug\netcoreapp2.2\02. Expression.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_1_08.31.19\02. Expression\obj\Debug\netcoreapp2.2\02. Expression.AssemblyInfoInputs.cache
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_1_08.31.19\02. Expression\obj\Debug\netcoreapp2.2\02. Expression.AssemblyInfo.cs
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_1_08.31.19\02. Expression\obj\Debug\netcoreapp2.2\02. Expression.dll
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_1_08.31.19\02. Expression\obj\Debug\netcoreapp2.2\02. Expression.pdb

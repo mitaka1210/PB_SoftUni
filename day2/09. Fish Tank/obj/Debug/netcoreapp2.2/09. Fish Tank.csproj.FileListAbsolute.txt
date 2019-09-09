@@ -1,0 +1,11 @@
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_2_07.09.19\09. Fish Tank\bin\Debug\netcoreapp2.2\09. Fish Tank.deps.json
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_2_07.09.19\09. Fish Tank\bin\Debug\netcoreapp2.2\09. Fish Tank.runtimeconfig.json
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_2_07.09.19\09. Fish Tank\bin\Debug\netcoreapp2.2\09. Fish Tank.runtimeconfig.dev.json
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_2_07.09.19\09. Fish Tank\bin\Debug\netcoreapp2.2\09. Fish Tank.dll
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_2_07.09.19\09. Fish Tank\bin\Debug\netcoreapp2.2\09. Fish Tank.pdb
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_2_07.09.19\09. Fish Tank\obj\Debug\netcoreapp2.2\09. Fish Tank.csprojAssemblyReference.cache
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_2_07.09.19\09. Fish Tank\obj\Debug\netcoreapp2.2\09. Fish Tank.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_2_07.09.19\09. Fish Tank\obj\Debug\netcoreapp2.2\09. Fish Tank.AssemblyInfoInputs.cache
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_2_07.09.19\09. Fish Tank\obj\Debug\netcoreapp2.2\09. Fish Tank.AssemblyInfo.cs
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_2_07.09.19\09. Fish Tank\obj\Debug\netcoreapp2.2\09. Fish Tank.dll
+C:\Users\dimit\Desktop\softUni\PBSeptember2019\PB_Day_2_07.09.19\09. Fish Tank\obj\Debug\netcoreapp2.2\09. Fish Tank.pdb
