@@ -26,12 +26,17 @@ namespace _10._Toy_Shop
 
             int numberToy = numberMinions + numberPuzzles + numberTalkingDolls + numberTeddyBears + numberTrucks;
 
-            if (numberToy > 50)
+            if (numberToy >= 50)
             {
                 double discout = 25 * allToySumm / 100;
-                summDiscount =+ discout;
+                summDiscount = +discout;
 
 
+            }
+            else if (numberToy < 50)
+            {
+                
+                summDiscount = 0;
             }
 
             double endSumm = allToySumm - summDiscount;
