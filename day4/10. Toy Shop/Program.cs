@@ -35,8 +35,8 @@ namespace _10._Toy_Shop
             }
             else if (numberToy < 50)
             {
-                
-                summDiscount = 0;
+                double discount = 0 * allToySumm;
+                summDiscount =+ discount;
             }
 
             double endSumm = allToySumm - summDiscount;
