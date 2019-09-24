@@ -13,10 +13,12 @@ namespace _06._Godzilla_vs._Kong
 
             double priceForOneCloting = double.Parse(Console.ReadLine());
 
+            //=================================================================
+
             double decor = 10 * budge / 100;
 
             double priceForAllCloting = numberOfPeople * priceForOneCloting;
-
+                        
             double summForFilm = decor + priceForAllCloting;
 
             double priceForClotingDiscount = priceForAllCloting * 10 / 100;
@@ -32,6 +34,7 @@ namespace _06._Godzilla_vs._Kong
             double summ = Math.Abs(endSummWithDescount);
             double summ2 = Math.Abs(endSUmm);
 
+            //=======================================================================
 
             if (numberOfPeople > 150 && budge > priceWithDescount)
             {
